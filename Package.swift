@@ -7,7 +7,7 @@ let package = Package(
     name: "SwiftVersionCompare",
     platforms: [
         .iOS(.v13),
-        .macOS(.v10_15),
+        .macOS(.v10_14),
         .watchOS(.v7),
         .tvOS(.v13)
     ],
